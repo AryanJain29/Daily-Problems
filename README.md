@@ -5,6 +5,7 @@ A collection of Daily LeetCode questions I solve !
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/AryanJain29/Daily-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0624-maximum-distance-in-arrays](https://github.com/AryanJain29/Daily-Problems/tree/master/0624-maximum-distance-in-arrays) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/AryanJain29/Daily-Problems/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Greedy
@@ -15,4 +16,8 @@ A collection of Daily LeetCode questions I solve !
 |  |
 | ------- |
 | [2067-maximum-number-of-points-with-cost](https://github.com/AryanJain29/Daily-Problems/tree/master/2067-maximum-number-of-points-with-cost) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/AryanJain29/Daily-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
