@@ -9,6 +9,7 @@ A collection of Daily LeetCode questions I solve !
 | [0053-maximum-subarray](https://github.com/AryanJain29/Daily-Problems/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/AryanJain29/Daily-Problems/tree/master/0169-majority-element) |
 | [0624-maximum-distance-in-arrays](https://github.com/AryanJain29/Daily-Problems/tree/master/0624-maximum-distance-in-arrays) |
+| [1240-stone-game-ii](https://github.com/AryanJain29/Daily-Problems/tree/master/1240-stone-game-ii) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/AryanJain29/Daily-Problems/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Greedy
 |  |
@@ -19,6 +20,7 @@ A collection of Daily LeetCode questions I solve !
 | ------- |
 | [0053-maximum-subarray](https://github.com/AryanJain29/Daily-Problems/tree/master/0053-maximum-subarray) |
 | [0264-ugly-number-ii](https://github.com/AryanJain29/Daily-Problems/tree/master/0264-ugly-number-ii) |
+| [1240-stone-game-ii](https://github.com/AryanJain29/Daily-Problems/tree/master/1240-stone-game-ii) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/AryanJain29/Daily-Problems/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Binary Search
 |  |
@@ -33,6 +35,7 @@ A collection of Daily LeetCode questions I solve !
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/AryanJain29/Daily-Problems/tree/master/0264-ugly-number-ii) |
+| [1240-stone-game-ii](https://github.com/AryanJain29/Daily-Problems/tree/master/1240-stone-game-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -50,4 +53,12 @@ A collection of Daily LeetCode questions I solve !
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AryanJain29/Daily-Problems/tree/master/0169-majority-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/AryanJain29/Daily-Problems/tree/master/1240-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/AryanJain29/Daily-Problems/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->
