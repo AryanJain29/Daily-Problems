@@ -20,6 +20,7 @@ A collection of Daily LeetCode questions I solve !
 | ------- |
 | [0053-maximum-subarray](https://github.com/AryanJain29/Daily-Problems/tree/master/0053-maximum-subarray) |
 | [0264-ugly-number-ii](https://github.com/AryanJain29/Daily-Problems/tree/master/0264-ugly-number-ii) |
+| [0664-strange-printer](https://github.com/AryanJain29/Daily-Problems/tree/master/0664-strange-printer) |
 | [1240-stone-game-ii](https://github.com/AryanJain29/Daily-Problems/tree/master/1240-stone-game-ii) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/AryanJain29/Daily-Problems/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Binary Search
@@ -61,4 +62,8 @@ A collection of Daily LeetCode questions I solve !
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/AryanJain29/Daily-Problems/tree/master/1240-stone-game-ii) |
+## String
+|  |
+| ------- |
+| [0664-strange-printer](https://github.com/AryanJain29/Daily-Problems/tree/master/0664-strange-printer) |
 <!---LeetCode Topics End-->
