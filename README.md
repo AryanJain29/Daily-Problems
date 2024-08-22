@@ -66,4 +66,8 @@ A collection of Daily LeetCode questions I solve !
 |  |
 | ------- |
 | [0664-strange-printer](https://github.com/AryanJain29/Daily-Problems/tree/master/0664-strange-printer) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0476-number-complement](https://github.com/AryanJain29/Daily-Problems/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->
