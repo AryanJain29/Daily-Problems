@@ -16,6 +16,7 @@ A collection of Daily LeetCode questions I solve !
 | [0624-maximum-distance-in-arrays](https://github.com/AryanJain29/Daily-Problems/tree/master/0624-maximum-distance-in-arrays) |
 | [1240-stone-game-ii](https://github.com/AryanJain29/Daily-Problems/tree/master/1240-stone-game-ii) |
 | [1325-path-with-maximum-probability](https://github.com/AryanJain29/Daily-Problems/tree/master/1325-path-with-maximum-probability) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/AryanJain29/Daily-Problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [2035-count-sub-islands](https://github.com/AryanJain29/Daily-Problems/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/AryanJain29/Daily-Problems/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Greedy
@@ -39,6 +40,7 @@ A collection of Daily LeetCode questions I solve !
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AryanJain29/Daily-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AryanJain29/Daily-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AryanJain29/Daily-Problems/tree/master/0540-single-element-in-a-sorted-array) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/AryanJain29/Daily-Problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 ## Hash Table
 |  |
 | ------- |
