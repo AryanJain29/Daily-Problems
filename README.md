@@ -35,6 +35,7 @@ A collection of Daily LeetCode questions I solve !
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/AryanJain29/Daily-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/AryanJain29/Daily-Problems/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/AryanJain29/Daily-Problems/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AryanJain29/Daily-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AryanJain29/Daily-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AryanJain29/Daily-Problems/tree/master/0540-single-element-in-a-sorted-array) |
@@ -47,6 +48,7 @@ A collection of Daily LeetCode questions I solve !
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/AryanJain29/Daily-Problems/tree/master/0069-sqrtx) |
 | [0264-ugly-number-ii](https://github.com/AryanJain29/Daily-Problems/tree/master/0264-ugly-number-ii) |
 | [0564-find-the-closest-palindrome](https://github.com/AryanJain29/Daily-Problems/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/AryanJain29/Daily-Problems/tree/master/0592-fraction-addition-and-subtraction) |
