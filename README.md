@@ -47,6 +47,7 @@ A collection of Daily LeetCode questions I solve !
 | [0001-two-sum](https://github.com/AryanJain29/Daily-Problems/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/AryanJain29/Daily-Problems/tree/master/0169-majority-element) |
 | [0264-ugly-number-ii](https://github.com/AryanJain29/Daily-Problems/tree/master/0264-ugly-number-ii) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/AryanJain29/Daily-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Math
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of Daily LeetCode questions I solve !
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/AryanJain29/Daily-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/AryanJain29/Daily-Problems/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/AryanJain29/Daily-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [2035-count-sub-islands](https://github.com/AryanJain29/Daily-Problems/tree/master/2035-count-sub-islands) |
 ## Binary Tree
 |  |
@@ -118,6 +120,7 @@ A collection of Daily LeetCode questions I solve !
 ## Graph
 |  |
 | ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/AryanJain29/Daily-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/AryanJain29/Daily-Problems/tree/master/1325-path-with-maximum-probability) |
 ## Shortest Path
 |  |
@@ -130,6 +133,7 @@ A collection of Daily LeetCode questions I solve !
 ## Union Find
 |  |
 | ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/AryanJain29/Daily-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [2035-count-sub-islands](https://github.com/AryanJain29/Daily-Problems/tree/master/2035-count-sub-islands) |
 ## Matrix
 |  |
