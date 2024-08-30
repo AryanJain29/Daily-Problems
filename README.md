@@ -61,6 +61,7 @@ A collection of Daily LeetCode questions I solve !
 | ------- |
 | [0264-ugly-number-ii](https://github.com/AryanJain29/Daily-Problems/tree/master/0264-ugly-number-ii) |
 | [1325-path-with-maximum-probability](https://github.com/AryanJain29/Daily-Problems/tree/master/1325-path-with-maximum-probability) |
+| [2803-modify-graph-edge-weights](https://github.com/AryanJain29/Daily-Problems/tree/master/2803-modify-graph-edge-weights) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -122,10 +123,12 @@ A collection of Daily LeetCode questions I solve !
 | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/AryanJain29/Daily-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/AryanJain29/Daily-Problems/tree/master/1325-path-with-maximum-probability) |
+| [2803-modify-graph-edge-weights](https://github.com/AryanJain29/Daily-Problems/tree/master/2803-modify-graph-edge-weights) |
 ## Shortest Path
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/AryanJain29/Daily-Problems/tree/master/1325-path-with-maximum-probability) |
+| [2803-modify-graph-edge-weights](https://github.com/AryanJain29/Daily-Problems/tree/master/2803-modify-graph-edge-weights) |
 ## Breadth-First Search
 |  |
 | ------- |
