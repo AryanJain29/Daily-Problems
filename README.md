@@ -19,6 +19,7 @@ A collection of Daily LeetCode questions I solve !
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/AryanJain29/Daily-Problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [2035-count-sub-islands](https://github.com/AryanJain29/Daily-Problems/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/AryanJain29/Daily-Problems/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/AryanJain29/Daily-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Greedy
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of Daily LeetCode questions I solve !
 |  |
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/AryanJain29/Daily-Problems/tree/master/0592-fraction-addition-and-subtraction) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/AryanJain29/Daily-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Stack
 |  |
 | ------- |
@@ -144,4 +146,5 @@ A collection of Daily LeetCode questions I solve !
 |  |
 | ------- |
 | [2035-count-sub-islands](https://github.com/AryanJain29/Daily-Problems/tree/master/2035-count-sub-islands) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/AryanJain29/Daily-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 <!---LeetCode Topics End-->
