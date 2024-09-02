@@ -105,6 +105,7 @@ A collection of Daily LeetCode questions I solve !
 | ------- |
 | [0020-valid-parentheses](https://github.com/AryanJain29/Daily-Problems/tree/master/0020-valid-parentheses) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AryanJain29/Daily-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/AryanJain29/Daily-Problems/tree/master/0155-min-stack) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/AryanJain29/Daily-Problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Tree
 |  |
@@ -147,4 +148,8 @@ A collection of Daily LeetCode questions I solve !
 | ------- |
 | [2035-count-sub-islands](https://github.com/AryanJain29/Daily-Problems/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/AryanJain29/Daily-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/AryanJain29/Daily-Problems/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
