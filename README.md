@@ -94,6 +94,7 @@ A collection of Daily LeetCode questions I solve !
 | [0564-find-the-closest-palindrome](https://github.com/AryanJain29/Daily-Problems/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/AryanJain29/Daily-Problems/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/AryanJain29/Daily-Problems/tree/master/0664-strange-printer) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/AryanJain29/Daily-Problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of Daily LeetCode questions I solve !
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/AryanJain29/Daily-Problems/tree/master/0592-fraction-addition-and-subtraction) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AryanJain29/Daily-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/AryanJain29/Daily-Problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/AryanJain29/Daily-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Stack
 |  |
