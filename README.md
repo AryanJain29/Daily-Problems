@@ -23,6 +23,7 @@ A collection of Daily LeetCode questions I solve !
 | [2067-maximum-number-of-points-with-cost](https://github.com/AryanJain29/Daily-Problems/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/AryanJain29/Daily-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/AryanJain29/Daily-Problems/tree/master/2155-find-missing-observations) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AryanJain29/Daily-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Greedy
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of Daily LeetCode questions I solve !
 | [0264-ugly-number-ii](https://github.com/AryanJain29/Daily-Problems/tree/master/0264-ugly-number-ii) |
 | [0906-walking-robot-simulation](https://github.com/AryanJain29/Daily-Problems/tree/master/0906-walking-robot-simulation) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/AryanJain29/Daily-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AryanJain29/Daily-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 |  |
 | ------- |
@@ -164,4 +166,8 @@ A collection of Daily LeetCode questions I solve !
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/AryanJain29/Daily-Problems/tree/master/0155-min-stack) |
+## Linked List
+|  |
+| ------- |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AryanJain29/Daily-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 <!---LeetCode Topics End-->
