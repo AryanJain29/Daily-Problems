@@ -12,6 +12,7 @@ A collection of Daily LeetCode questions I solve !
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AryanJain29/Daily-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AryanJain29/Daily-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/AryanJain29/Daily-Problems/tree/master/0169-majority-element) |
+| [0503-next-greater-element-ii](https://github.com/AryanJain29/Daily-Problems/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AryanJain29/Daily-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0624-maximum-distance-in-arrays](https://github.com/AryanJain29/Daily-Problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0906-walking-robot-simulation](https://github.com/AryanJain29/Daily-Problems/tree/master/0906-walking-robot-simulation) |
@@ -122,6 +123,7 @@ A collection of Daily LeetCode questions I solve !
 | [0020-valid-parentheses](https://github.com/AryanJain29/Daily-Problems/tree/master/0020-valid-parentheses) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AryanJain29/Daily-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/AryanJain29/Daily-Problems/tree/master/0155-min-stack) |
+| [0503-next-greater-element-ii](https://github.com/AryanJain29/Daily-Problems/tree/master/0503-next-greater-element-ii) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/AryanJain29/Daily-Problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Tree
 |  |
@@ -175,4 +177,8 @@ A collection of Daily LeetCode questions I solve !
 | [0725-split-linked-list-in-parts](https://github.com/AryanJain29/Daily-Problems/tree/master/0725-split-linked-list-in-parts) |
 | [2411-spiral-matrix-iv](https://github.com/AryanJain29/Daily-Problems/tree/master/2411-spiral-matrix-iv) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AryanJain29/Daily-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/AryanJain29/Daily-Problems/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
