@@ -53,6 +53,7 @@ A collection of Daily LeetCode questions I solve !
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AryanJain29/Daily-Problems/tree/master/0001-two-sum) |
+| [0146-lru-cache](https://github.com/AryanJain29/Daily-Problems/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/AryanJain29/Daily-Problems/tree/master/0169-majority-element) |
 | [0264-ugly-number-ii](https://github.com/AryanJain29/Daily-Problems/tree/master/0264-ugly-number-ii) |
 | [0906-walking-robot-simulation](https://github.com/AryanJain29/Daily-Problems/tree/master/0906-walking-robot-simulation) |
@@ -172,10 +173,12 @@ A collection of Daily LeetCode questions I solve !
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/AryanJain29/Daily-Problems/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/AryanJain29/Daily-Problems/tree/master/0155-min-stack) |
 ## Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/AryanJain29/Daily-Problems/tree/master/0146-lru-cache) |
 | [0725-split-linked-list-in-parts](https://github.com/AryanJain29/Daily-Problems/tree/master/0725-split-linked-list-in-parts) |
 | [2411-spiral-matrix-iv](https://github.com/AryanJain29/Daily-Problems/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/AryanJain29/Daily-Problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -188,4 +191,8 @@ A collection of Daily LeetCode questions I solve !
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/AryanJain29/Daily-Problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/AryanJain29/Daily-Problems/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
