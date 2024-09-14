@@ -25,6 +25,7 @@ A collection of Daily LeetCode questions I solve !
 | [2132-convert-1d-array-into-2d-array](https://github.com/AryanJain29/Daily-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/AryanJain29/Daily-Problems/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/AryanJain29/Daily-Problems/tree/master/2411-spiral-matrix-iv) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/AryanJain29/Daily-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AryanJain29/Daily-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Greedy
 |  |
@@ -110,6 +111,7 @@ A collection of Daily LeetCode questions I solve !
 | ------- |
 | [0476-number-complement](https://github.com/AryanJain29/Daily-Problems/tree/master/0476-number-complement) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/AryanJain29/Daily-Problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/AryanJain29/Daily-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Simulation
 |  |
 | ------- |
@@ -195,4 +197,8 @@ A collection of Daily LeetCode questions I solve !
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/AryanJain29/Daily-Problems/tree/master/0146-lru-cache) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/AryanJain29/Daily-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
