@@ -12,6 +12,7 @@ A collection of Daily LeetCode questions I solve !
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AryanJain29/Daily-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AryanJain29/Daily-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/AryanJain29/Daily-Problems/tree/master/0169-majority-element) |
+| [0455-assign-cookies](https://github.com/AryanJain29/Daily-Problems/tree/master/0455-assign-cookies) |
 | [0503-next-greater-element-ii](https://github.com/AryanJain29/Daily-Problems/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AryanJain29/Daily-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0624-maximum-distance-in-arrays](https://github.com/AryanJain29/Daily-Problems/tree/master/0624-maximum-distance-in-arrays) |
@@ -30,6 +31,7 @@ A collection of Daily LeetCode questions I solve !
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/AryanJain29/Daily-Problems/tree/master/0455-assign-cookies) |
 | [0624-maximum-distance-in-arrays](https://github.com/AryanJain29/Daily-Problems/tree/master/0624-maximum-distance-in-arrays) |
 ## Dynamic Programming
 |  |
@@ -85,6 +87,7 @@ A collection of Daily LeetCode questions I solve !
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AryanJain29/Daily-Problems/tree/master/0169-majority-element) |
+| [0455-assign-cookies](https://github.com/AryanJain29/Daily-Problems/tree/master/0455-assign-cookies) |
 ## Counting
 |  |
 | ------- |
@@ -201,4 +204,8 @@ A collection of Daily LeetCode questions I solve !
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/AryanJain29/Daily-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Two Pointers
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/AryanJain29/Daily-Problems/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
