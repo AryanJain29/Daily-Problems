@@ -9,6 +9,7 @@ A collection of Daily LeetCode questions I solve !
 | [0033-search-in-rotated-sorted-array](https://github.com/AryanJain29/Daily-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/AryanJain29/Daily-Problems/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/AryanJain29/Daily-Problems/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/AryanJain29/Daily-Problems/tree/master/0055-jump-game) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AryanJain29/Daily-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AryanJain29/Daily-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/AryanJain29/Daily-Problems/tree/master/0169-majority-element) |
@@ -32,6 +33,7 @@ A collection of Daily LeetCode questions I solve !
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/AryanJain29/Daily-Problems/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/AryanJain29/Daily-Problems/tree/master/0455-assign-cookies) |
 | [0624-maximum-distance-in-arrays](https://github.com/AryanJain29/Daily-Problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/AryanJain29/Daily-Problems/tree/master/0890-lemonade-change) |
@@ -39,6 +41,7 @@ A collection of Daily LeetCode questions I solve !
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/AryanJain29/Daily-Problems/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/AryanJain29/Daily-Problems/tree/master/0055-jump-game) |
 | [0264-ugly-number-ii](https://github.com/AryanJain29/Daily-Problems/tree/master/0264-ugly-number-ii) |
 | [0664-strange-printer](https://github.com/AryanJain29/Daily-Problems/tree/master/0664-strange-printer) |
 | [1240-stone-game-ii](https://github.com/AryanJain29/Daily-Problems/tree/master/1240-stone-game-ii) |
