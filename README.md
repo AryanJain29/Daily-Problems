@@ -15,6 +15,7 @@ A collection of Daily LeetCode questions I solve !
 | [0169-majority-element](https://github.com/AryanJain29/Daily-Problems/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/AryanJain29/Daily-Problems/tree/master/0455-assign-cookies) |
 | [0503-next-greater-element-ii](https://github.com/AryanJain29/Daily-Problems/tree/master/0503-next-greater-element-ii) |
+| [0539-minimum-time-difference](https://github.com/AryanJain29/Daily-Problems/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AryanJain29/Daily-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0624-maximum-distance-in-arrays](https://github.com/AryanJain29/Daily-Problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/AryanJain29/Daily-Problems/tree/master/0890-lemonade-change) |
@@ -73,6 +74,7 @@ A collection of Daily LeetCode questions I solve !
 | ------- |
 | [0069-sqrtx](https://github.com/AryanJain29/Daily-Problems/tree/master/0069-sqrtx) |
 | [0264-ugly-number-ii](https://github.com/AryanJain29/Daily-Problems/tree/master/0264-ugly-number-ii) |
+| [0539-minimum-time-difference](https://github.com/AryanJain29/Daily-Problems/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/AryanJain29/Daily-Problems/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/AryanJain29/Daily-Problems/tree/master/0592-fraction-addition-and-subtraction) |
 | [1240-stone-game-ii](https://github.com/AryanJain29/Daily-Problems/tree/master/1240-stone-game-ii) |
@@ -94,6 +96,7 @@ A collection of Daily LeetCode questions I solve !
 | ------- |
 | [0169-majority-element](https://github.com/AryanJain29/Daily-Problems/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/AryanJain29/Daily-Problems/tree/master/0455-assign-cookies) |
+| [0539-minimum-time-difference](https://github.com/AryanJain29/Daily-Problems/tree/master/0539-minimum-time-difference) |
 ## Counting
 |  |
 | ------- |
@@ -112,6 +115,7 @@ A collection of Daily LeetCode questions I solve !
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AryanJain29/Daily-Problems/tree/master/0020-valid-parentheses) |
+| [0539-minimum-time-difference](https://github.com/AryanJain29/Daily-Problems/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/AryanJain29/Daily-Problems/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/AryanJain29/Daily-Problems/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/AryanJain29/Daily-Problems/tree/master/0664-strange-printer) |
