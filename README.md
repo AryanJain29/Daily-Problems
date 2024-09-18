@@ -10,6 +10,7 @@ A collection of Daily LeetCode questions I solve !
 | [0035-search-insert-position](https://github.com/AryanJain29/Daily-Problems/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/AryanJain29/Daily-Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AryanJain29/Daily-Problems/tree/master/0055-jump-game) |
+| [0078-subsets](https://github.com/AryanJain29/Daily-Problems/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AryanJain29/Daily-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AryanJain29/Daily-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/AryanJain29/Daily-Problems/tree/master/0169-majority-element) |
@@ -127,6 +128,7 @@ A collection of Daily LeetCode questions I solve !
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/AryanJain29/Daily-Problems/tree/master/0078-subsets) |
 | [0476-number-complement](https://github.com/AryanJain29/Daily-Problems/tree/master/0476-number-complement) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/AryanJain29/Daily-Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/AryanJain29/Daily-Problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
@@ -224,4 +226,8 @@ A collection of Daily LeetCode questions I solve !
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/AryanJain29/Daily-Problems/tree/master/0455-assign-cookies) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/AryanJain29/Daily-Problems/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
