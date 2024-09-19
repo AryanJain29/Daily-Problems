@@ -47,6 +47,7 @@ A collection of Daily LeetCode questions I solve !
 | ------- |
 | [0053-maximum-subarray](https://github.com/AryanJain29/Daily-Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AryanJain29/Daily-Problems/tree/master/0055-jump-game) |
+| [0241-different-ways-to-add-parentheses](https://github.com/AryanJain29/Daily-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/AryanJain29/Daily-Problems/tree/master/0264-ugly-number-ii) |
 | [0664-strange-printer](https://github.com/AryanJain29/Daily-Problems/tree/master/0664-strange-printer) |
 | [1240-stone-game-ii](https://github.com/AryanJain29/Daily-Problems/tree/master/1240-stone-game-ii) |
@@ -78,6 +79,7 @@ A collection of Daily LeetCode questions I solve !
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/AryanJain29/Daily-Problems/tree/master/0069-sqrtx) |
+| [0241-different-ways-to-add-parentheses](https://github.com/AryanJain29/Daily-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/AryanJain29/Daily-Problems/tree/master/0264-ugly-number-ii) |
 | [0539-minimum-time-difference](https://github.com/AryanJain29/Daily-Problems/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/AryanJain29/Daily-Problems/tree/master/0564-find-the-closest-palindrome) |
@@ -123,6 +125,7 @@ A collection of Daily LeetCode questions I solve !
 | ------- |
 | [0020-valid-parentheses](https://github.com/AryanJain29/Daily-Problems/tree/master/0020-valid-parentheses) |
 | [0179-largest-number](https://github.com/AryanJain29/Daily-Problems/tree/master/0179-largest-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/AryanJain29/Daily-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/AryanJain29/Daily-Problems/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/AryanJain29/Daily-Problems/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/AryanJain29/Daily-Problems/tree/master/0592-fraction-addition-and-subtraction) |
@@ -236,4 +239,12 @@ A collection of Daily LeetCode questions I solve !
 |  |
 | ------- |
 | [0078-subsets](https://github.com/AryanJain29/Daily-Problems/tree/master/0078-subsets) |
+## Recursion
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/AryanJain29/Daily-Problems/tree/master/0241-different-ways-to-add-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/AryanJain29/Daily-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
