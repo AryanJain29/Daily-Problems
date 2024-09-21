@@ -170,6 +170,7 @@ A collection of Daily LeetCode questions I solve !
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/AryanJain29/Daily-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0386-lexicographical-numbers](https://github.com/AryanJain29/Daily-Problems/tree/master/0386-lexicographical-numbers) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/AryanJain29/Daily-Problems/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/AryanJain29/Daily-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [2035-count-sub-islands](https://github.com/AryanJain29/Daily-Problems/tree/master/2035-count-sub-islands) |
@@ -260,4 +261,8 @@ A collection of Daily LeetCode questions I solve !
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/AryanJain29/Daily-Problems/tree/master/0214-shortest-palindrome) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/AryanJain29/Daily-Problems/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
