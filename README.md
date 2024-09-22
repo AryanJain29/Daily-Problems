@@ -265,4 +265,5 @@ A collection of Daily LeetCode questions I solve !
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/AryanJain29/Daily-Problems/tree/master/0386-lexicographical-numbers) |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/AryanJain29/Daily-Problems/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 <!---LeetCode Topics End-->
