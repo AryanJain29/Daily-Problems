@@ -21,6 +21,7 @@ A collection of Daily LeetCode questions I solve !
 | [0539-minimum-time-difference](https://github.com/AryanJain29/Daily-Problems/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AryanJain29/Daily-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0624-maximum-distance-in-arrays](https://github.com/AryanJain29/Daily-Problems/tree/master/0624-maximum-distance-in-arrays) |
+| [0729-my-calendar-i](https://github.com/AryanJain29/Daily-Problems/tree/master/0729-my-calendar-i) |
 | [0890-lemonade-change](https://github.com/AryanJain29/Daily-Problems/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/AryanJain29/Daily-Problems/tree/master/0906-walking-robot-simulation) |
 | [1240-stone-game-ii](https://github.com/AryanJain29/Daily-Problems/tree/master/1240-stone-game-ii) |
@@ -64,6 +65,7 @@ A collection of Daily LeetCode questions I solve !
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AryanJain29/Daily-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AryanJain29/Daily-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AryanJain29/Daily-Problems/tree/master/0540-single-element-in-a-sorted-array) |
+| [0729-my-calendar-i](https://github.com/AryanJain29/Daily-Problems/tree/master/0729-my-calendar-i) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/AryanJain29/Daily-Problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AryanJain29/Daily-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Hash Table
@@ -216,6 +218,7 @@ A collection of Daily LeetCode questions I solve !
 | ------- |
 | [0146-lru-cache](https://github.com/AryanJain29/Daily-Problems/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/AryanJain29/Daily-Problems/tree/master/0155-min-stack) |
+| [0729-my-calendar-i](https://github.com/AryanJain29/Daily-Problems/tree/master/0729-my-calendar-i) |
 ## Linked List
 |  |
 | ------- |
@@ -275,4 +278,12 @@ A collection of Daily LeetCode questions I solve !
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/AryanJain29/Daily-Problems/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [2755-extra-characters-in-a-string](https://github.com/AryanJain29/Daily-Problems/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/AryanJain29/Daily-Problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/AryanJain29/Daily-Problems/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/AryanJain29/Daily-Problems/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
