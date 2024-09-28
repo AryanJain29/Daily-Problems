@@ -23,6 +23,7 @@ A collection of Daily LeetCode questions I solve !
 | [0624-maximum-distance-in-arrays](https://github.com/AryanJain29/Daily-Problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0729-my-calendar-i](https://github.com/AryanJain29/Daily-Problems/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/AryanJain29/Daily-Problems/tree/master/0731-my-calendar-ii) |
+| [0859-design-circular-deque](https://github.com/AryanJain29/Daily-Problems/tree/master/0859-design-circular-deque) |
 | [0890-lemonade-change](https://github.com/AryanJain29/Daily-Problems/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/AryanJain29/Daily-Problems/tree/master/0906-walking-robot-simulation) |
 | [1240-stone-game-ii](https://github.com/AryanJain29/Daily-Problems/tree/master/1240-stone-game-ii) |
@@ -223,11 +224,13 @@ A collection of Daily LeetCode questions I solve !
 | [0155-min-stack](https://github.com/AryanJain29/Daily-Problems/tree/master/0155-min-stack) |
 | [0729-my-calendar-i](https://github.com/AryanJain29/Daily-Problems/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/AryanJain29/Daily-Problems/tree/master/0731-my-calendar-ii) |
+| [0859-design-circular-deque](https://github.com/AryanJain29/Daily-Problems/tree/master/0859-design-circular-deque) |
 ## Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/AryanJain29/Daily-Problems/tree/master/0146-lru-cache) |
 | [0725-split-linked-list-in-parts](https://github.com/AryanJain29/Daily-Problems/tree/master/0725-split-linked-list-in-parts) |
+| [0859-design-circular-deque](https://github.com/AryanJain29/Daily-Problems/tree/master/0859-design-circular-deque) |
 | [2411-spiral-matrix-iv](https://github.com/AryanJain29/Daily-Problems/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/AryanJain29/Daily-Problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AryanJain29/Daily-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -292,4 +295,8 @@ A collection of Daily LeetCode questions I solve !
 | ------- |
 | [0729-my-calendar-i](https://github.com/AryanJain29/Daily-Problems/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/AryanJain29/Daily-Problems/tree/master/0731-my-calendar-ii) |
+## Queue
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/AryanJain29/Daily-Problems/tree/master/0859-design-circular-deque) |
 <!---LeetCode Topics End-->
