@@ -78,6 +78,7 @@ A collection of Daily LeetCode questions I solve !
 | [0146-lru-cache](https://github.com/AryanJain29/Daily-Problems/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/AryanJain29/Daily-Problems/tree/master/0169-majority-element) |
 | [0264-ugly-number-ii](https://github.com/AryanJain29/Daily-Problems/tree/master/0264-ugly-number-ii) |
+| [0432-all-oone-data-structure](https://github.com/AryanJain29/Daily-Problems/tree/master/0432-all-oone-data-structure) |
 | [0906-walking-robot-simulation](https://github.com/AryanJain29/Daily-Problems/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/AryanJain29/Daily-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/AryanJain29/Daily-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -222,6 +223,7 @@ A collection of Daily LeetCode questions I solve !
 | ------- |
 | [0146-lru-cache](https://github.com/AryanJain29/Daily-Problems/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/AryanJain29/Daily-Problems/tree/master/0155-min-stack) |
+| [0432-all-oone-data-structure](https://github.com/AryanJain29/Daily-Problems/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/AryanJain29/Daily-Problems/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/AryanJain29/Daily-Problems/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/AryanJain29/Daily-Problems/tree/master/0859-design-circular-deque) |
@@ -229,6 +231,7 @@ A collection of Daily LeetCode questions I solve !
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/AryanJain29/Daily-Problems/tree/master/0146-lru-cache) |
+| [0432-all-oone-data-structure](https://github.com/AryanJain29/Daily-Problems/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/AryanJain29/Daily-Problems/tree/master/0725-split-linked-list-in-parts) |
 | [0859-design-circular-deque](https://github.com/AryanJain29/Daily-Problems/tree/master/0859-design-circular-deque) |
 | [2411-spiral-matrix-iv](https://github.com/AryanJain29/Daily-Problems/tree/master/2411-spiral-matrix-iv) |
@@ -246,6 +249,7 @@ A collection of Daily LeetCode questions I solve !
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/AryanJain29/Daily-Problems/tree/master/0146-lru-cache) |
+| [0432-all-oone-data-structure](https://github.com/AryanJain29/Daily-Problems/tree/master/0432-all-oone-data-structure) |
 ## Brainteaser
 |  |
 | ------- |
