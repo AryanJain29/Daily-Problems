@@ -27,6 +27,7 @@ A collection of Daily LeetCode questions I solve !
 | [0890-lemonade-change](https://github.com/AryanJain29/Daily-Problems/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/AryanJain29/Daily-Problems/tree/master/0906-walking-robot-simulation) |
 | [1240-stone-game-ii](https://github.com/AryanJain29/Daily-Problems/tree/master/1240-stone-game-ii) |
+| [1256-rank-transform-of-an-array](https://github.com/AryanJain29/Daily-Problems/tree/master/1256-rank-transform-of-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/AryanJain29/Daily-Problems/tree/master/1325-path-with-maximum-probability) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/AryanJain29/Daily-Problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AryanJain29/Daily-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -82,6 +83,7 @@ A collection of Daily LeetCode questions I solve !
 | [0906-walking-robot-simulation](https://github.com/AryanJain29/Daily-Problems/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/AryanJain29/Daily-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/AryanJain29/Daily-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1256-rank-transform-of-an-array](https://github.com/AryanJain29/Daily-Problems/tree/master/1256-rank-transform-of-an-array) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/AryanJain29/Daily-Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2755-extra-characters-in-a-string](https://github.com/AryanJain29/Daily-Problems/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/AryanJain29/Daily-Problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -116,6 +118,7 @@ A collection of Daily LeetCode questions I solve !
 | [0179-largest-number](https://github.com/AryanJain29/Daily-Problems/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/AryanJain29/Daily-Problems/tree/master/0455-assign-cookies) |
 | [0539-minimum-time-difference](https://github.com/AryanJain29/Daily-Problems/tree/master/0539-minimum-time-difference) |
+| [1256-rank-transform-of-an-array](https://github.com/AryanJain29/Daily-Problems/tree/master/1256-rank-transform-of-an-array) |
 ## Counting
 |  |
 | ------- |
