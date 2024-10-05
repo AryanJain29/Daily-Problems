@@ -80,6 +80,7 @@ A collection of Daily LeetCode questions I solve !
 | [0169-majority-element](https://github.com/AryanJain29/Daily-Problems/tree/master/0169-majority-element) |
 | [0264-ugly-number-ii](https://github.com/AryanJain29/Daily-Problems/tree/master/0264-ugly-number-ii) |
 | [0432-all-oone-data-structure](https://github.com/AryanJain29/Daily-Problems/tree/master/0432-all-oone-data-structure) |
+| [0567-permutation-in-string](https://github.com/AryanJain29/Daily-Problems/tree/master/0567-permutation-in-string) |
 | [0906-walking-robot-simulation](https://github.com/AryanJain29/Daily-Problems/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/AryanJain29/Daily-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/AryanJain29/Daily-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -144,6 +145,7 @@ A collection of Daily LeetCode questions I solve !
 | [0241-different-ways-to-add-parentheses](https://github.com/AryanJain29/Daily-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/AryanJain29/Daily-Problems/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/AryanJain29/Daily-Problems/tree/master/0564-find-the-closest-palindrome) |
+| [0567-permutation-in-string](https://github.com/AryanJain29/Daily-Problems/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/AryanJain29/Daily-Problems/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/AryanJain29/Daily-Problems/tree/master/0664-strange-printer) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/AryanJain29/Daily-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -261,6 +263,7 @@ A collection of Daily LeetCode questions I solve !
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/AryanJain29/Daily-Problems/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/AryanJain29/Daily-Problems/tree/master/0567-permutation-in-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -306,4 +309,8 @@ A collection of Daily LeetCode questions I solve !
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/AryanJain29/Daily-Problems/tree/master/0859-design-circular-deque) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/AryanJain29/Daily-Problems/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
