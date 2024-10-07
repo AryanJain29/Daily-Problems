@@ -152,6 +152,7 @@ A collection of Daily LeetCode questions I solve !
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/AryanJain29/Daily-Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/AryanJain29/Daily-Problems/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2755-extra-characters-in-a-string](https://github.com/AryanJain29/Daily-Problems/tree/master/2755-extra-characters-in-a-string) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/AryanJain29/Daily-Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/AryanJain29/Daily-Problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Bit Manipulation
 |  |
@@ -172,6 +173,7 @@ A collection of Daily LeetCode questions I solve !
 | [2132-convert-1d-array-into-2d-array](https://github.com/AryanJain29/Daily-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/AryanJain29/Daily-Problems/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/AryanJain29/Daily-Problems/tree/master/2411-spiral-matrix-iv) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/AryanJain29/Daily-Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Stack
 |  |
 | ------- |
@@ -180,6 +182,7 @@ A collection of Daily LeetCode questions I solve !
 | [0155-min-stack](https://github.com/AryanJain29/Daily-Problems/tree/master/0155-min-stack) |
 | [0503-next-greater-element-ii](https://github.com/AryanJain29/Daily-Problems/tree/master/0503-next-greater-element-ii) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/AryanJain29/Daily-Problems/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/AryanJain29/Daily-Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Tree
 |  |
 | ------- |
