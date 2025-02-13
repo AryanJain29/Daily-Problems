@@ -6,6 +6,7 @@ A collection of Daily LeetCode questions I solve !
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AryanJain29/Daily-Problems/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/AryanJain29/Daily-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/AryanJain29/Daily-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/AryanJain29/Daily-Problems/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/AryanJain29/Daily-Problems/tree/master/0039-combination-sum) |
@@ -274,6 +275,7 @@ A collection of Daily LeetCode questions I solve !
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/AryanJain29/Daily-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0455-assign-cookies](https://github.com/AryanJain29/Daily-Problems/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/AryanJain29/Daily-Problems/tree/master/0567-permutation-in-string) |
 ## Backtracking
