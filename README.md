@@ -34,6 +34,7 @@ A collection of Daily LeetCode questions I solve !
 | [1256-rank-transform-of-an-array](https://github.com/AryanJain29/Daily-Problems/tree/master/1256-rank-transform-of-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/AryanJain29/Daily-Problems/tree/master/1325-path-with-maximum-probability) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/AryanJain29/Daily-Problems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/AryanJain29/Daily-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AryanJain29/Daily-Problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/AryanJain29/Daily-Problems/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/AryanJain29/Daily-Problems/tree/master/2067-maximum-number-of-points-with-cost) |
