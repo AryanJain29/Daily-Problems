@@ -18,6 +18,7 @@ A collection of Daily LeetCode questions I solve !
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AryanJain29/Daily-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/AryanJain29/Daily-Problems/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/AryanJain29/Daily-Problems/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/AryanJain29/Daily-Problems/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/AryanJain29/Daily-Problems/tree/master/0455-assign-cookies) |
 | [0503-next-greater-element-ii](https://github.com/AryanJain29/Daily-Problems/tree/master/0503-next-greater-element-ii) |
 | [0539-minimum-time-difference](https://github.com/AryanJain29/Daily-Problems/tree/master/0539-minimum-time-difference) |
@@ -99,6 +100,7 @@ A collection of Daily LeetCode questions I solve !
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/AryanJain29/Daily-Problems/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/AryanJain29/Daily-Problems/tree/master/0189-rotate-array) |
 | [0241-different-ways-to-add-parentheses](https://github.com/AryanJain29/Daily-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/AryanJain29/Daily-Problems/tree/master/0264-ugly-number-ii) |
 | [0539-minimum-time-difference](https://github.com/AryanJain29/Daily-Problems/tree/master/0539-minimum-time-difference) |
@@ -276,6 +278,7 @@ A collection of Daily LeetCode questions I solve !
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AryanJain29/Daily-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/AryanJain29/Daily-Problems/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/AryanJain29/Daily-Problems/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/AryanJain29/Daily-Problems/tree/master/0567-permutation-in-string) |
 ## Backtracking
