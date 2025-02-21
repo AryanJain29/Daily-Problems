@@ -154,6 +154,7 @@ A collection of Daily LeetCode questions I solve !
 | [0179-largest-number](https://github.com/AryanJain29/Daily-Problems/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/AryanJain29/Daily-Problems/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/AryanJain29/Daily-Problems/tree/master/0241-different-ways-to-add-parentheses) |
+| [0345-reverse-vowels-of-a-string](https://github.com/AryanJain29/Daily-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0539-minimum-time-difference](https://github.com/AryanJain29/Daily-Problems/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/AryanJain29/Daily-Problems/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/AryanJain29/Daily-Problems/tree/master/0567-permutation-in-string) |
@@ -280,6 +281,7 @@ A collection of Daily LeetCode questions I solve !
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AryanJain29/Daily-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/AryanJain29/Daily-Problems/tree/master/0189-rotate-array) |
+| [0345-reverse-vowels-of-a-string](https://github.com/AryanJain29/Daily-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/AryanJain29/Daily-Problems/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/AryanJain29/Daily-Problems/tree/master/0567-permutation-in-string) |
 ## Backtracking
